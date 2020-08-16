@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+
+spring:
+  datasource:
+    password: 02580258@lL
+    username: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/fruit?serverTimezone=UTC
